@@ -1,7 +1,5 @@
 logos:
 
-  - logo_affiliation: assets/img/ampersand.png
-    logo_alt_text: "WashU ArtSci"
+  - logo_affiliation: assets/img/washu_seal.png
+    logo_alt_text: "WashU logo"
     
-  - logo_affiliation: assets/img/mcss.png
-    logo_alt_text: "mcss"

@@ -1,0 +1,13 @@
+<!-- Teaching section -->
+
+<hr>
+<div class="row" id="teaching">
+    <div class="col">
+        <h2 clss="mb-5">✨ teaching</h2>
+        <p></p>
+        {% for mini-project in site.data.outreach.mini-projects %}
+            {% include_relative _libs/teaching_widget.html %}
+        {% endfor %}
+        <p></p>
+    </div>
+</div>
