@@ -9,7 +9,7 @@
         <meta name="description" content="website"/>
         <meta name="author" content="khang nguyen"/>
         <title>Cassidy Metzger | Aspiring Physics/Astronomy PhD</title>
-        <link rel="icon" type="image/x-icon" href="assets/img/headshot?.png"/>
+        <link rel="icon" type="image/x-icon" href="assets/img/headshot.png"/>
         
         <!-- Font Awesome icons -->
         <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js"></script>
@@ -47,7 +47,7 @@
         
         <!-- Assitant icon saying about theme changes -->
         <div class="popup-icon-container" id="popupIconContainer" draggable="true">
-            <div class="icon"><img src="assets/img/headshot?.png" width="65" height="65"></div>
+            <div class="icon"><img src="assets/img/headshot.png" width="65" height="65"></div>
             <div class="speech-balloon"></div>
         </div>
         
@@ -98,7 +98,7 @@
              <a class="social-icon" onclick="scrollToTopDiv('#research');" title="Projects"><i class="fa fa-shapes" style="font-size: 35px; color: #e8828c"></i></a> 
             
             
-             <a class="social-icon" id="contact-card-trigger" title="Contact Info"><i class="fa fa-id-card" style="font-size: 35px; color: #cbbb5f"></i></a> 
+            
         </div>
         <p></p>
     </div>
@@ -284,71 +284,69 @@
         <div id="filters-project">
             <button class="filter-button active" data-filter="*">all</button>
             
-                <button class="filter-button" data-filter="perception manipulation">perception + manipulation</button>
-            
-                <button class="filter-button" data-filter="framework">framework</button>
+                <button class="filter-button" data-filter="heastro">High-Energy Astrophysics</button>
             
         </div>
         <p></p>
         <div id="projects" class="isotope">
             
-                <div class="project" data-filter="perception manipulation">
+                <div class="project" data-filter="heastro">
     <div class="row mb-4">
         <div class="col-sm-4">
-            <img width="100%" height="auto" class="w-full rounded-lg" src="assets/img/demo_scene_perception.gif" />
+            <img width="100%" height="auto" class="w-full rounded-lg" src="assets/img/relativistic_jet.gif" />
         </div>
         <div class="col-sm-8">
             
-            <b>Real-Time 3D Semantic Scene Perception for Egocentric Robots with Binocular Vision</b>
+            <b>Search for HBL-candidates in the eROSITA catalog</b>
             <br />
-            <i><a href="" target="_blank" rel="noopener">arXiv (02/19/2024)</a></i> 
+            <i><a href="" target="_blank" rel="noopener">CUWiP 2024</a></i> 
             
             <br />
-            <u>Khang Nguyen</u>, Tuan Dang, Manfred Huber.
+            <u>Cassidy Metzger</u>, Andrea Gokus, Manel Errando.
             <br />
-             <a href="https://arxiv.org/pdf/2402.11872.pdf" target="_blank" rel="noopener">[PDF]</a> 
-             | <a href="https://github.com/mkhangg/semantic_scene_perception" target="_blank" rel="noopener">[CODE]</a> 
-             | <a href="https://youtu.be/-dho7l_r56U" target="_blank" rel="noopener">[DEMO]</a> 
+             <a href="assets/papers/Goldwater_Scholarship_research_essay.pdf" target="_blank" rel="noopener">[PDF]</a> 
             
+            
+             | <a href="assets/slides/CUWIP_2024.pdf" target="_blank" rel="noopener">[SLIDES]</a> 
             
             <br />
             <u><b><i>Abstract</i></b>:</u> 
-            Perceiving a three-dimensional (3D) scene with multiple objects while moving indoors is essential for vision-based mobile cobots, especially for enhancing their manipulation tasks. In this work, we present an end-to-end pipeline with instance segmentation, feature matching, and point-set registration for egocentric robots with binocular vision, and demonstrate the robot's
-            <span class="collapse" id="more_scene_perception">
-                grasping capability through the proposed pipeline. First, we design an RGB image-based segmentation approach for single-view 3D semantic scene segmentation, leveraging common object classes in 2D datasets to encapsulate 3D points into point clouds of object instances through corresponding depth maps. Next, 3D correspondences of two consecutive segmented point clouds are extracted based on matched keypoints between objects of interest in RGB images from the prior step. In addition, to be aware of spatial changes in 3D feature distribution, we also weigh each 3D point pair based on the estimated distribution using kernel density estimation (KDE), which subsequently gives robustness with less central correspondences while solving for rigid transformations between point clouds. Finally, we test our proposed pipeline on the 7-DOF dual-arm Baxter robot with a mounted Intel RealSense D435i RGB-D camera. The result shows that our robot can segment objects of interest, register multiple views while moving, and grasp the target object.
+            Active galactic nuclei (AGN) are active supermassive black holes that reside at galactic centers. Approximately 10% of AGN are capable of launching a collimated stream of matter via magnetic fields that consist of particles accelerated near the speed of light. This phenomenon is known as a relativistic jet. However, the mechanisms that power relativistic jets are primarily unknown.
+            <span class="collapse">
+                We theorize that these mechanisms are exaggerated in the case of extremely powerful jets. Thus, we aim to conduct a survey of the most powerful relativistic jets. We categorize a jet as “extremely powerful” when it reaches TeV energies. To do this, we enforce parameters in the X-ray and infrared wavelengths based on objects that are confirmed to be producing relativistic jets that reach TeV energies. Using these parameters, we develop an algorithm that searches through infrared and X-ray data to select sources that fall within the parameters set. In the future, we intend to use the outputs of this algorithm to construct a catalog that will serve as a target list for future gamma-ray observatories
             </span> 
-            <span> <a href="#more_scene_perception" data-toggle="collapse" onclick="toggleText(this)" id="link-more_scene_perception">... See More</a></span>
+            <span> <a href="#" data-toggle="collapse" onclick="toggleText(this)" id="link-">... See More</a></span>
         </div>                       
     </div>
 </div>
 
             
-                <div class="project" data-filter="perception manipulation">
+                <div class="project" data-filter="heastro">
     <div class="row mb-4">
         <div class="col-sm-4">
-            <img width="100%" height="auto" class="w-full rounded-lg" src="assets/img/demo_online.gif" />
+            <img width="100%" height="auto" class="w-full rounded-lg" src="assets/img/IMBHpng.png" />
         </div>
         <div class="col-sm-8">
             
-            <b>Online 3D Deformable Object Classification for Mobile Cobot Manipulation</b>
+            <b>Studying Accretion onto an Intermediate-Mass Black Hole (IMBH)</b>
             <br />
-            <i><a href="https://www.isr-robotics.org/isr" target="_blank" rel="noopener">ISR Europe 2023 (Stuttgart, Baden-Wurttemberg, Germany)</a></i> 
+            <i><a href="" target="_blank" rel="noopener">CUWiP 2023</a></i> 
             
             <br />
-            <u>Khang Nguyen</u>, Tuan Dang, Manfred Huber.
+            <u>Cassidy Metzger</u>, Andrea Gokus, Manel Errando.
             <br />
-             <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10363065" target="_blank" rel="noopener">[PDF]</a> 
-             | <a href="https://github.com/mkhangg/deformable_cobot" target="_blank" rel="noopener">[CODE]</a> 
-             | <a href="https://youtu.be/qkgi3T6xYzI" target="_blank" rel="noopener">[DEMO]</a> 
-             | <a href="https://mkhangg.com/assets/slides/isr23_slides.pdf" target="_blank" rel="noopener">[SLIDES]</a> 
-             | <a href="https://youtu.be/ATzyXtLAK6E" target="_blank" rel="noopener">[TALK]</a> 
+             <a href="assets/slides/CuWiP_conference_poster_v2.pdf" target="_blank" rel="noopener">[PDF]</a> 
+            
+            
+            
+            
             <br />
             <u><b><i>Abstract</i></b>:</u> 
-            Vision-based object manipulation in assistive mobile cobots essentially relies on classifying the target objects based on their 3D shapes and features, whether they are deformed or not. In this work, we present an auto-generated dataset of deformed objects specific for assistive mobile cobot manipulation using an intuitive Laplacian-based mesh deformation procedure. We
-            <span class="collapse" id="more_online">
-                first determine the graspable region of the robot hand on the given object's mesh. Then, we uniformly sample handle points within the graspable region and perform deformation with multiple handle points based on the robot gripper configuration. In each deformation, we identify the orientation of handle points and prevent self-intersection to guarantee the object's physical meaning when multiple handle points are simultaneously applied to the mesh at different deformation intensities. We also introduce a lightweight neural network for 3D deformable object classification. Finally, we test our generated dataset on the Baxter robot with two 7-DOF arms, an integrated RGB-D camera, and a 3D deformable object classifier. The result shows that the robot is able to classify real-world deformed objects from point clouds captured at multiple views by the RGB-D camera.
+            While all Active Galactic Nuclei (AGN) commonly vary in X-ray emission on short time scales, it has been noted by several papers that this flux variability seems to be inversely correlated with the mass of the black hole (e.g., Lu &amp; Yu 2001; Papadakis 2004; McHardy et al. 2006). This  correlation implies that black holes with greater variability are less massive.
+            <span class="collapse">
+                Therefore, if X-ray variability is great and the black hole is accreting near its Eddington limit, it can be inferred that this is a growing black hole3. Our research focuses on a dataset of the AGN 2MASX J20082452-444095 that spans several years (2011-2019) and was collected with the X-ray telescope onboard the Swift satellite. We study the long-term X-ray variability of J2008 in order to understand the growth rate of its central black hole.
             </span> 
-            <span> <a href="#more_online" data-toggle="collapse" onclick="toggleText(this)" id="link-more_online">... See More</a></span>
+            <span> <a href="#" data-toggle="collapse" onclick="toggleText(this)" id="link-">... See More</a></span>
         </div>                       
     </div>
 </div>
@@ -708,9 +706,9 @@
         </div>
         <div class="col col-md text-right">
             
-                <img class="mr+4" src="assets/img/uta_cse_logo.png" data-canonical-src="assets/img/uta_cse_logo.png" alt="UTA CSE" width="60" />
+                <img class="mr+4" src="assets/img/ampersand.png" data-canonical-src="assets/img/ampersand.png" alt="WashU ArtSci" width="60" />
             
-                <img class="mr+4" src="assets/img/uta_logo.png" data-canonical-src="assets/img/uta_logo.png" alt="UTA" width="60" />
+                <img class="mr+4" src="assets/img/mcss.png" data-canonical-src="assets/img/mcss.png" alt="mcss" width="60" />
             
         </div>
     </div>
