@@ -9,7 +9,6 @@ profile-pic: assets/img/headshot.png
 github: https://github.com/cassiemetzger
 resume: assets/doc/resume.pdf
 projects: show            # delete "show" or leave it blank to hide this icon
-
 # information for contact card
 dept: Physics @ Washington University in St. Louis
 lab: Errando lab @ WashU
