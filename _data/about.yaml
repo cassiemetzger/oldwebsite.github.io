@@ -1,41 +1,32 @@
 # basic information
-name: khang nguyen
-profile-pic: assets/img/profile.jpg
-pronunciation: /kʰæŋ/
-pronunciation-emoji: 🎧
+name: Cassidy Metzger
+profile-pic: assets/img/headshot.png
 
 # emoji indicator
-emoji: 🍀
-desc-emoji: four-leaf clover
+
 
 # social links
-scholar: https://scholar.google.com/citations?user=Z6_5ZTEAAAAJ
-researchgate: https://www.researchgate.net/profile/Khang-Nguyen-133
-github: https://github.com/mkhangg
-youtube: https://www.youtube.com/@_m.khangg_
-resume: assets/doc/Resume_KhangNguyen.pdf
+github: https://github.com/cassiemetzger
+resume: assets/doc/resume.pdf
 projects: show            # delete "show" or leave it blank to hide this icon
-codepen: https://codepen.io/mkhangg
-orcid: https://orcid.org/0000-0003-3471-5533
-contact: show            # delete "show" or leave it blank to hide this icon
+contact: show
+            # delete "show" or leave it blank to hide this icon
 
 # information for contact card
-dept: cse @ uta
-lab: learn lab @ erb 128
-email: khang.nguyen@uta.edu
-phone: +1 (470) 815-5812
-website: https://mkhangg.com/
-web-dns: mkhangg.com
+dept: Physics @ Washington University in St. Louis
+lab: Errando lab @ WashU
+email: c.m.metzger@wustl.edu
+phone: +1 (708) 689 7177
 
 # about me
-first-paragraph: I am a research assistant at the <hightlight>Learning and Adaptive Robotics (LEARN) Lab</hightlight> affiliated with the <a href="https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse" target="_blank" rel="noopener">University of Texas at Arlington</a> under the guidance of <a href="https://www.uta.edu/academics/faculty/profile?username=huber" target="_blank" rel="noopener">Dr. Manfred Huber</a>, building upon the research I initiated during my undergraduate studies here. (◕▿◕)
-second-paragraph: I grew up in <a href="https://en.wikipedia.org/wiki/Saigon" target="_blank" rel="noopener">Saigon, Vietnam</a>, and was fortunate to spend my most memorable time at the <a href="https://en.wikipedia.org/wiki/VNU-HCM_High_School_for_the_Gifted" target="_blank" rel="noopener">VNU-HCM High School for the Gifted</a> (informatics program of 2020) and previously <a href="https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BA%A1i_Ngh%C4%A9a_High_School_for_the_Gifted" target="_blank" rel="noopener">TĐN Secondary School for the Gifted</a> (mathematics program of 2017) with very good friends - too many to name them here, where we played football (soccer) on concrete fields together afterschool.
-research-introduction: I do research in robotics, mainly focusing on applying <code>cognitive architectures to robotic grasping</code> to enable robots with a closely similar human grasping capability. Just imagine the robot enters the kitchen, finds a banana, grasps without crushing it, and brings it back to you.
+first-paragraph: I am an undergraduate research assistant with the <a href="https://physics.wustl.edu/" target="_blank" rel="noopener">Physics Department</a> at Washington University in St. Louis, working under <a href="https://sites.wustl.edu/errando/" target="_blank" rel="noopener"> Dr. Manel Errando </a> in the field of High-Energy Astrophysics. 
+second-paragraph: I grew up 9 miles outside of Chicago, IL, a quick train ride away from <a href="https://www.adlerplanetarium.org/" target="_blank" rel = "noopener">Adler Planetarium</a>, where my fascination with space began. I attended <a href="https://www.oprfhs.org/" target="_blank" rel="noopener"> Oak Park and River Forest High School</a> where I played <a href="https://www.oakpark.com/?s=Cassie%20Metzger%20" target="_blank" rel="noopener">softball</a> for a number of years. 
+research-introduction: I am particularly fascinated by black holes. My current work resides in the field of experimental astrophysics and focuses on studying the <a href="https://www.nustar.caltech.edu/page/relativistic_jets" target="_blank" rel="noopener">relativistic jets</a> emitted by <a href="https://webbtelescope.org/contents/articles/what-are-active-galactic-nuclei" target="_blank" rel="noopener">Active Galactic Nuclei (AGN)</a> using data from the <a href="https://www.jpl.nasa.gov/missions/wide-field-infrared-survey-explorer-wise" target="_blank" rel="noopener">WISE</a> and <a href="https://www.mpe.mpg.de/eROSITA" target="_blank" rel="noopener">eROSITA</a> satellites. However, I am also interested in computational physics, particularly in developing models for accretion and particle acceleration within supermassive black holes (SMBH) and SMBH formation and evolution.
 
 research-interests:
 
-  - field: Robotic Perception
-    subfields: semantic scene understanding, perception for grasping
+  - field: Active Galactic Nuclei (AGN)
+    subfields: high-energy astrophysics (X-ray, gamma-ray), relativistic jets, modelling accretion and particle acceleration
   
-  - field: Robotic Manipulation
-    subfields: learning to grasp, manipulative visual-motor skills
+  - field: Supermassive Black Holes (SMBH)
+    subfields: SMBH formation and evolution, SMBH mergers, gravitational waves 
