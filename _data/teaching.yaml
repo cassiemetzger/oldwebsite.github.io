@@ -1,28 +1,17 @@
+first-paragraph: Math and science, especially physics, were not subjects that came easily to me. For the majority of elementary school, middle school, and high school, I performed average at best in those classes. It was due to the teachers and tutors that recognized my passion, irregardless of my natural talent, and helped me along the way that I was able to learn math and physics in a way that worked for me. Today, I am passionate about teaching math and physics. I especially enjoy working with students who are struggling in those subjects. I firmly believe that all students have the potential to excel in STEM. Everyone learns in their own ways and through my own experiences as a student and a teacher, I've learned that many students who struggle in STEM fields simply learn differently than students who are naturally drawn to STEM subjects. As a teacher/tutor today, I make it my goal to find the best way to teach each of my students individually. 
+second-paragraph: At WashU, I am involved with teaching physics through WashU's Learning Center and the Physics Department directly. 
+
 mini-projects:
 
-  - title: Autonomous Waypoint Navigation with GPS and ArduRover
-    system-name: 
-    gif: assets/img/demo_outdoor_nav.gif
-    event: UVS Design (Arlington, TX, U.S.)
-    event-web: 
-    team: Kevin Mathew, Jesus Garza Munoz, Benjamin Nguyen, <u>Khang Nguyen</u>.
-    post: 
-    code: 
-    demo: https://youtu.be/5QHfGqPYY8Y
-    description: We design the rover platform with hardware-software integration for autonomous waypoint navigation using Here3 GPS and ArduRover for outdoor activities. The video demonstrates the rover's mission to go through 10 defined waypoints on the UTA campus through Mission Planner via wireless communication through the Hex cube (Pixhawk 2.1) controller.
-    prize: 
+  - title: Peer-Led Team Learning (PLTL) 
+    event: Fall 2022 - Present
+    gif: assets/img/learning_center.png
+    description: I began working as a PLTL Leader the fall of my sophomore year. As a PLTL leader, I facilitate weekly group sessions for students in WashU's introductory physics sequence (<a href="https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L31&crs=191" target="_blank" rel="noopener">Physics 191</a> and <a href="https://courses.wustl.edu/CourseInfo.aspx?sch=L&dept=L31&crs=192" target="_blank" rel="noopener">Physics 192</a>). I work with a group of 8-15 students for two hours a week. We work through a series of problems that are above the level of the class and are designed to challenge students and force them to learn the material on a deeper level. I act a faciliator, guiding the students through the questions with the aim of teaching them how to work through the problems themselves. However, I do also regularly provide explanations and help when needed. 
 
-  - title: An Autonomous Spatial Voice Localization Crawling Robot
-    system-name: Spidey
-    gif: assets/img/demo_spidey.gif
-    event: HackMIT 2022 (Boston, MA, U.S.)
-    event-web: https://hackmit.org/
-    team: <u>Khang Nguyen</u>.
-    post: https://spectacle.hackmit.org/project/185
-    code: https://github.com/mkhangg/hackmit22
-    demo: https://youtu.be/m1g6fkH6Zvg
-    description: We present an autonomous spatial voice localization crawling robot demonstrating the potential of assistive technology for people with visual impairment to ask for help whenever they are in a spatial area without physical assistance. 
-    prize: Won Sponsorship Award for Assistive Technologies over 198 competing teams.
+  - title: Physics 191/192 Recitation Leader
+    gif: assets/img/physlibrary.jpeg
+    event: Spring 2023 - Present 
+    description: As a physics recitation leader for the introductory physics sequence, I work with approximately 30 students for one hour a week. The students work in small groups while I walk around and answer questions. I also provide brief content reviews in a short lecture format as necessary. 
 
   - title: An Autonomous Ground Monitoring and Tree Planting Robot
     system-name: iPlanter

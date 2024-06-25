@@ -4,6 +4,9 @@
 <div class="row" id="teaching">
     <div class="col">
         <h2 clss="mb-5">✨ teaching</h2>
+        {{ site.data.teaching.first-paragraph }}
+        <p></p>
+        {{ site.data.teaching.second-paragraph }}
         <p></p>
         {% for mini-project in site.data.teaching.mini-projects %}
             {% include_relative _libs/teaching_widget.html %}
