@@ -1,20 +1,19 @@
-first-paragraph: I began conducting research in <a href="https://artsci.wustl.edu/faculty-staff/manel-errando" target="_blank" rel="noopener">Manel Errando</a>'s lab in the fall of my sophomore year. I was drawn to the lab because of its focus on active galactic nuclei. Since I first learned about black holes at a planetarium show, I knew that I wanted to study the mysteries behind them. I was quickly captivated by the mysteries of relativistic jets and their methods of particle acceleration. 
+first-paragraph: I began conducting research in <a href="https://artsci.wustl.edu/faculty-staff/manel-errando" target="_blank" rel="noopener">Manel Errando</a>'s lab in the fall of my sophomore year. I was drawn to the lab because of its focus on active galactic nuclei (AGN). Since I first learned about black holes at a planetarium show, I knew that I wanted to study the mysteries behind them. I was quickly captivated by the lab's focus on the high energy emissions from AGN. I have since presented my research at the Conference for Undergraduate Women in Physics (CUWiP) in 2023 and 2024, the Washington University Undergraduate Research Symposium (Spring 2023, <a href="https://sites.wustl.edu/errando/students-present-at-the-undergraduate-research-symposium/" target = "_blank" rel = "noopener"> Fall 2023</a>), and the Washington University Physics Research Symposium (WUPRS) in 2023 where I was awarded <a href="https://sites.wustl.edu/errando/cassie-wins-poster-competition/" target="_blank" rel="noopener">first place</a>. Below, I'll highlight my two major research projects.   
 mini-projects: 
-  - title: Liquid Nitrogen Ice Cream Social
-    gif: assets/img/liquid_nitrogen1.png
-    event: Fall 2023 
-    description: As a form of outreach, I designed a liquid nitrogen social event. The event was open to all WashU students and was designed to be a kind of spectacle. It was first hosted at the beginning of the 2023 Fall semester. The intention was to reach a wider audience of students. We certaintly saw success, serving approximately 100 students. The event was then hosted again at the end of the 2024 spring semester where approximately 80 students were served. Following both events, we witnessed a notable increase in chapter interest. 
-    prize: 
+  - title: Search for HBL-candidates in the eROSITA catalog
+    authors: <u>Cassidy Metzger</u>, Andrea Gokus, Manel Errando
+    gif: assets/img/bh_jet.gif
+    event: Spring 2023 - Present 
+    poster: assets/slides/CUWIP_2024.pdf
+    pdf: assets/papers/Goldwater_Scholarship_research_essay.pdf
+    abstract: Active galactic nuclei (AGN) are active supermassive black holes that reside at galactic centers. Approximately 10% of AGN are capable of launching a collimated stream of matter via magnetic fields that consist of particles accelerated near the speed of light. This phenomenon is known as a relativistic jet. However, the mechanisms that power relativistic jets are primarily unknown. We theorize that these mechanisms are exaggerated in the case of extremely powerful jets. Thus, we aim to conduct a survey of the most powerful relativistic jets. We categorize a jet as “extremely powerful” when it reaches TeV energies. To do this, we enforce parameters in the X-ray and infrared wavelengths based on objects that are confirmed to be producing relativistic jets that reach TeV energies. Using these parameters, we develop an algorithm that searches through infrared and X-ray data to select sources that fall within the parameters set. In the future, we intend to use the outputs of this algorithm to construct a catalog that will serve as a target list for future gamma-ray observatories. 
+    note: Paper in progress. 
+    credit: Aurore Simonnet and NASA’s Goddard Space Flight Center
 
-  - title: Physics Research Panel
-    gif: assets/img/researchpanel.png 
-    event: Fall 2023
-    description: The event featured a variety of WashU Physics professors. Each presented brief descriptions of their research before answering questions from panelists and then the student body in attendance. The event was designed to give undergraduate students a look into the world of physics reseearch and present them with the opportunities available to them. Following the event, we were excited to report an increase in undergraduate reserch involvement. 
-  
-  - title: Zone 12 Meeting
-    gif: assets/img/z12.jpeg
-    event: Spring 2024
-    post: assets/doc/SPS_Zone12__final_ (3).pdf
-    description: As SPS is a national organization, collaboration between chapters is strongly encouraged. One of the ways that collaboration occurs is through meetings between chapters that are in the same zone. WashU, alongside the rest of Missouri schools, Kansas, and many Oklahoma schools fall into Zone 12. The meeting was hosted at WashU for the first time since 2008. The event was a great success. Beginning on a Friday, students got together for dinner followed by a physics-themed Jeporady game. Then, on Saturday, students navigated through a series of panels and lectures. The feedback from the event was overwhelmingly positive. 
-
-third-paragraph: With a semester still remaining in my term, I hope to bring our SPS chapter beyond WashU to promote physics/astronomy education within the St. Louis community. I plan to foster a connection between our chapter and local schools to promote an astronomy curriculum. 
+  - title: Studying Accretion onto an Intermediate-Mass Black Hole (IMBH)
+    authors: <u>Cassidy Metzger</u>, Andrea Gokus, Manel Errando
+    gif: assets/img/accretion.gif
+    abstract: While all Active Galactic Nuclei (AGN) commonly vary in X-ray emission on short time scales, it has been noted by several papers that this flux variability seems to be inversely correlated with the mass of the black hole (e.g., Lu & Yu 2001; Papadakis 2004; McHardy et al. 2006). This  correlation implies that black holes with greater variability are less massive. Therefore, if X-ray variability is great and the black hole is accreting near its Eddington limit, it can be inferred that this is a growing black hole. Our research focuses on a dataset of the AGN 2MASX J20082452-444095 that spans several years (2011-2019) and was collected with the X-ray telescope onboard the Swift satellite. We study the long-term X-ray variability of J2008 in order to understand the growth rate of its central black hole.
+    event: Fall 2022 
+    poster: assets/slides/CuWiP_conference_poster_v2.pdf
+    credit: Hotaka Shiokawa

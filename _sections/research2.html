@@ -3,17 +3,16 @@
 <hr>
 <div class="row" id="sps">
     <div class="col">
-        <h2 clss="mb-5">💫 society of physics students</h2>
-            {{ site.data.sps.first-paragraph }}
+        <h2 clss="mb-5">🪐 research</h2>
+            {{ site.data.research2.first-paragraph }}
             
+        
         <p></p>
-        {{ site.data.sps.second-paragraph }}      
-        <p></p>
-        {% for mini-project in site.data.sps.mini-projects %}
-            {% include_relative _libs/sps_widget.html %}
+        {% for mini-project in site.data.research2.mini-projects %}
+            {% include_relative _libs/research2_widget.html %}
         {% endfor %}
         <p></p>
-        {{ site.data.sps.third-paragraph }}      
+        {{ site.data.research2.third-paragraph }}      
         <p></p>
     </div>
 </div>

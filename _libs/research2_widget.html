@@ -8,13 +8,15 @@
         <br>
         <i><a href="{{ mini-project.event-web }}" target="_blank" rel="noopener">{{ mini-project.event }}</a></i>
         <br>
-        {{ mini-project.team }}
-        {% if mini-project.post %} <a href="{{ mini-project.post }}" target="_blank" rel="noopener">[EVENT PROGRAM] </a>  {% endif %}
-        {% if mini-project.code %} <a href="{{ mini-project.code }}" target="_blank" rel="noopener">[CODE]</a> {% endif %}
+            {{mini-project.authors }}
+        <br>
+        {% if mini-project.poster %} <a href="{{ mini-project.poster }}" target="_blank" rel="noopener">[POSTER]</a> {% endif %}
+        {% if mini-project.pdf %} <a href="{{ mini-project.pdf }}" target="_blank" rel="noopener">[PDF]</a> {% endif %}
         {% if mini-project.demo %} <a href="{{ mini-project.demo }}" target="_blank" rel="noopener">[DEMO]</a> {% endif %}
         <br>
-        <u><b><i>Description</i></b>:</u> {{ mini-project.description }}
+        <u><b><i>Abstract</i></b>:</u> {{ mini-project.abstract }}
         <br>
-        {% if mini-project.prize %} <u><b><i>Prize</i></b>:</u> {{ mini-project.prize }} {% endif %}
+        {% if mini-project.credit %} <u><b><i>Image credit</i></b>:</u> {{ mini-project.credit }} {% endif %} <br>
+        {% if mini-project.note %} <u><b><i>Note</i></b>:</u> {{ mini-project.note }} {% endif %}
     </div>
 </div>
