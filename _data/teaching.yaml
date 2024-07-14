@@ -13,14 +13,11 @@ mini-projects:
     event: Spring 2023 - Present 
     description: As a physics recitation leader for the introductory physics sequence, I work with approximately 30 students for one hour a week. The students work in small groups while I walk around and answer questions. I also provide brief content reviews in a short lecture format as necessary. 
 
-  - title: An Autonomous Ground Monitoring and Tree Planting Robot
-    system-name: iPlanter
-    gif: assets/img/demo_iplanter.gif
-    event: GT IEEE RoboTech 2022 (Atlanta, GA, U.S.)
-    event-web: https://robotech2022.devpost.com/
-    team: <u>Khang Nguyen</u>, Muhtasim Mahfuz, Vincent Kipchoge, Johnwon Hyeon.
-    post: https://devpost.com/software/tree-planting-robot
-    code: https://github.com/mkhangg/robotech22
-    demo: https://youtu.be/GZ0oAX-lLSM
-    description: Our tree planting robot demonstrates the an on-farm surveying robot that autonomously determines soil quality, plants seeds, and collects on-ground images.
-    prize: Won 2nd place in Body Track, 3rd place in Electrical Track, and Top 8 Prizes over 47 competing teams (approximately 160 participants).
+  - title: Washington University Student Associate (WUSA)
+    event: Summer 2022 - Spring 2023
+    gif: assets/img/wusa.jpg
+    description: As a WUSA, I worked with a cohort of 15 incoming first-years to help them acclimate to college. I assisted in organizing orientation week activities and met with my students for several hours each day during orientation week. During the school year, I hosted "WUSA Hours" for two hours each week. I would organize a variety of activities to help my students bond and generally just act as a resource for students. I regularly provided academic advice and discussed my own experiences as a student at WashU.
+  - title: Assistant softball coach 
+    event: Summer 2022 
+    gif: assets/img/ravens.jpg
+    description: I worked as an assistant coach for the Chicago Ravens 12U Softball team. I helped run practices and develop lineups for games. I often worked with pitchers specifically by calling pitches during games, providing in-game coaching advice, and offering guidance during practices. However, of the wide array of tasks I undertook as a coach, the most important was ensuring that every player on the team was able to enjoy the game. I did my best to provide each player with the tools they needed to have fun and succeed, both in the game and in their endeavors outside of practice. 

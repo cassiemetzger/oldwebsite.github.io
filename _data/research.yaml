@@ -11,8 +11,8 @@ projects:
     gif: assets/img/relativistic_jet.gif
     conference: CUWiP 2024 
     authors: <u>Cassidy Metzger</u>, Andrea Gokus, Manel Errando.
-    pdf: assets/papers/Goldwater_Scholarship_research_essay.pdf
-    slides: assets/slides/CUWIP_2024.pdf
+    pdf: assets/slides/CUWIP_2024.pdf
+    slides: assets/papers/Goldwater_Scholarship_research_essay.pdf
     abstract-less: Active galactic nuclei (AGN) are active supermassive black holes that reside at galactic centers. Approximately 10% of AGN are capable of launching a collimated stream of matter via magnetic fields that consist of particles accelerated near the speed of light. This phenomenon is known as a relativistic jet. However, the mechanisms that power relativistic jets are primarily unknown. 
     abstract-more: We theorize that these mechanisms are exaggerated in the case of extremely powerful jets. Thus, we aim to conduct a survey of the most powerful relativistic jets. We categorize a jet as “extremely powerful” when it reaches TeV energies. To do this, we enforce parameters in the X-ray and infrared wavelengths based on objects that are confirmed to be producing relativistic jets that reach TeV energies. Using these parameters, we develop an algorithm that searches through infrared and X-ray data to select sources that fall within the parameters set. In the future, we intend to use the outputs of this algorithm to construct a catalog that will serve as a target list for future gamma-ray observatories 
     category: heastro
@@ -20,7 +20,7 @@ projects:
   - title: Studying Accretion onto an Intermediate-Mass Black Hole (IMBH)
     gif: assets/img/IMBHpng.png
     conference: CUWiP 2023 
-    authors: <u>Cassidy Metzger</u>, Andrea Gokus, Manel Errando.
+    authors: <u>Cassidy Metzger</u>, Andrea Gokus, Manel Errando 
     pdf: assets/slides/CuWiP_conference_poster_v2.pdf
     abstract-less: While all Active Galactic Nuclei (AGN) commonly vary in X-ray emission on short time scales, it has been noted by several papers that this flux variability seems to be inversely correlated with the mass of the black hole (e.g., Lu & Yu 2001; Papadakis 2004; McHardy et al. 2006). This  correlation implies that black holes with greater variability are less massive. 
     abstract-more: Therefore, if X-ray variability is great and the black hole is accreting near its Eddington limit, it can be inferred that this is a growing black hole3. Our research focuses on a dataset of the AGN 2MASX J20082452-444095 that spans several years (2011-2019) and was collected with the X-ray telescope onboard the Swift satellite. We study the long-term X-ray variability of J2008 in order to understand the growth rate of its central black hole.
