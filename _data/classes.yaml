@@ -1,0 +1,37 @@
+introduction: Below, you can find the classes I took during my undergraduate studies at Washington University in St. Louis that I find to be relevant to my future work.  
+categories:
+
+  - data-filter: Physics
+    category-name: physics
+
+  - data-filter: Math
+    category-name: math
+
+links:
+
+  - git-api: Planets and Life in the Universe 
+    category: physics
+
+  - git-api: https://api.github.com/repos/mkhangg/semantic_scene_perception
+    category: research
+  
+  - git-api: https://api.github.com/repos/mkhangg/academic-website
+    category: misc
+
+  - git-api: https://api.github.com/repos/mkhangg/deformable_cobot
+    category: research
+
+  - git-api: https://api.github.com/repos/mkhangg/calib_cobot
+    category: research
+
+  - git-api: https://api.github.com/repos/mkhangg/perception_framework
+    category: research
+
+  - git-api: https://api.github.com/repos/mkhangg/hackmit22
+    category: outreach
+
+  - git-api: https://api.github.com/repos/tuantdang/iotree
+    category: research
+
+  - git-api: https://api.github.com/repos/mkhangg/robotech22
+    category: outreach

@@ -1,0 +1,22 @@
+<hr>
+<div class="row" id="resources">
+    <div class="col">
+        <h2 clss="mb-5">🌌 classes</h2>
+        <p></p>
+        {{ site.data.classes.introduction }}
+        <p></p>
+        <div id="filters-resources">
+            <button class="filter-button active" data-filter="*">all</button>
+            {% for category in site.data.classes.categories %}
+                <button class="filter-button" data-filter="{{ category.data-filter }}">{{ category.category-name }}</button>
+            {% endfor %}
+        </div>
+        <p></p>
+        <div id="github-cards" class="isotope">
+            {% for link in site.data.classes.links %}
+                {% include_relative _libs/classes_widget.html %}
+            {% endfor %}
+        </div>
+        <p></p>
+    </div>
+</div>
